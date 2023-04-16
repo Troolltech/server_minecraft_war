@@ -1,1 +1,1 @@
-java -Xmx2048M -Xms7168M -jar moshit-1.16.5-1109-server.jar nogui
+java -Xmx2048M -Xms7168M -jar mohist-1.16.5-1109-server.jar nogui
